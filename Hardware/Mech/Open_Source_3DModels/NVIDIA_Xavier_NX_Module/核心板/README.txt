@@ -1,0 +1,1 @@
+This updated model has a DRAM height that matches the tallest device that may be used over the life of the Orin NX / Orin Nano modules.  The taller height in the original model was more conservative than required for the Orin NX / Orin Nano module products.
