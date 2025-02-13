@@ -1,10 +1,10 @@
 # BEE35-DAQ-LIDAR
-A autonomous quad-rotor using MID-360
+An autonomous quad-rotor using MID-360
 
 
 ## 1. Project Description
 
-This project aims at developing a autonomous drone mainly based on MID-360 LiDAR.  
+This project aims at developing an autonomous drone mainly based on MID-360 LiDAR.  
 The following photo shows how it looks when well assembled. 
 
 <img src="Images\BEE35_DAQ_LIDAR_01.jpg" alt="wait" width="700">
