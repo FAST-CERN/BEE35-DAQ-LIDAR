@@ -1,0 +1,3 @@
+[submodule "Firmware/External-repo"]
+	path = Firmware/External-repo
+	url = https://github.com/HKUST-Aerial-Robotics/Nxt-FC.git
