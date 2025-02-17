@@ -38,13 +38,13 @@ A following photo shows how it looks when well assembled.
 ## 3. Bill of Matreials
 
 ### A. Ready-made modules
-| Name | Function | Quantity |Price(RMB)|
+| Name | Function | Quantity |Unit Price(RMB)|
 |:---------:|:---------:|:---------:|:--:|
-| NxtPX4-v2         | Flight Controller         | 1 |x|
-| BlueBird 48K 30A  | 4in1 ESC                  | 1 |x|
-| T-MOTOR V2004     | Motor                     | 4 |x|
-| BEE-35            | FPV drone kit             | 1 |x|
-| MTF-01            | Opticflow + Laser Ranging | 1 |x|
+| NxtPX4-v2         | Flight Controller         | 1 |298|
+| BlueBird 48K 33A  | 4in1 ESC                  | 1 |135|
+| T-MOTOR V2004     | Motor                     | 4 |129|
+| BEE-35            | FPV drone kit             | 1 |219|
+| MTF-01            | Opticflow + Laser Ranging | 1 |138|
 
 ### B. PCB
 
